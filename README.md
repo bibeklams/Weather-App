@@ -20,6 +20,10 @@ A simple and beautiful React-based weather application that fetches real-time we
 
 ---
 
+## 📷 Screenshot
+
+![Screenshot](./src/assets/weatherapp.png)
+
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
